@@ -8,7 +8,7 @@ sites:
   - name: Cloudmobility Charts
     url: https://cloudmobility.github.io/charts/index.yaml
   - name: Eu1z1 Namespaces Cluster
-    url: https://apiserver.agile-dingo.cns.eu1.cloudmobility.io/healthz
+    url: http://apiserver.agile-dingo.cns.eu1.cloudmobility.io/healthz
   - name: CloudMobility Site
     url: https://cloudmobility.io/
   - name: Eu1z1 Namespaces Ingress
@@ -18,7 +18,7 @@ sites:
   - name: Portal
     url: https://portal.cloudmobility.io/
   - name: Portal API
-    url: portal.cloudmobility.io/api/actuator/health/readiness
+    url: https://portal.cloudmobility.io/api/actuator/health/readiness
 
 status-website:
   baseUrl: /uptime_demo
@@ -29,5 +29,3 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
