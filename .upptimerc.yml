@@ -17,15 +17,14 @@ sites:
     url: https://core.harbor.eu1.ext.systems/api/health
   - name: Portal
     url: https://portal.cloudmobility.io/
-  - name: Portal API
-    url: https://portal.cloudmobility.io/api/actuator/health/readiness
+
 
 status-website:
   baseUrl: /uptime_demo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime**"
-  introMessage: This is a sample status page 
+  name: Cloudmobility
+  introTitle: "**Statuspage**"
+  introMessage: Cloudmobility StatusPage
   navbar:
     - title: Status
       href: /
