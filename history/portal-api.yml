@@ -1,0 +1,7 @@
+url: portal.cloudmobility.io/api/actuator/health/readiness
+status: down
+code: 500
+responseTime: 292
+lastUpdated: 2021-10-19T08:51:21.176Z
+startTime: Tue Oct 19 2021 08:51:20 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
