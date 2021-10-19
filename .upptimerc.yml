@@ -27,3 +27,5 @@ status-website:
   navbar:
     - title: Status
       href: /uptime_demo/
+    - title: cmy-postmortem
+      href: https://git.daimler.com/CCP/cmy-postmortem/blob/master/template.md
