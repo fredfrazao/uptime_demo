@@ -21,8 +21,8 @@ sites:
 
 status-website:
   baseUrl: /uptime_demo
-  logoUrl: https://cloudmobility.io/static/579c7ecdcddbb55866d72cb8f374c16a/cloudmobilityLogo.svg
-  name: Cloudmobility
+  logoUrl: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QjxrSjO4bK3BKHLiJV0FEGyTYa65D6X5sg&usqp=CAU
+  name: Cloudmobility Status page
   introTitle: "**Statuspage**"
   introMessage: Cloudmobility StatusPage
   navbar:
