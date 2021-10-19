@@ -26,4 +26,4 @@ status-website:
   introTitle: "**Cloudmobility StatusPage**"
   navbar:
     - title: Status
-      href: /
+      href: /uptime_demo/
