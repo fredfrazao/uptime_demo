@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "time": 404,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 42,
-    "timeDay": 42,
-    "timeWeek": 42,
-    "timeMonth": 42,
-    "timeYear": 42,
+    "time": 40,
+    "timeDay": 40,
+    "timeWeek": 40,
+    "timeMonth": 40,
+    "timeYear": 40,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/apiserver.agile-dingo.cns.eu1.cloudmobility.io",
     "slug": "eu1z1-namespaces-cluster",
     "status": "down",
-    "uptime": "4.79%",
-    "uptimeDay": "4.79%",
-    "uptimeWeek": "4.79%",
-    "uptimeMonth": "4.79%",
-    "uptimeYear": "4.79%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-19": 0
+      "2021-10-19": 3
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 185,
-    "timeWeek": 185,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 433,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 429,
+    "timeDay": 429,
+    "timeWeek": 429,
+    "timeMonth": 429,
+    "timeYear": 429,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 510,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "time": 574,
+    "timeDay": 574,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "time": 301,
+    "timeDay": 301,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portal-api",
     "status": "down",
-    "uptime": "9.03%",
-    "uptimeDay": "9.03%",
-    "uptimeWeek": "9.03%",
-    "uptimeMonth": "9.03%",
-    "uptimeYear": "9.03%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 292,
     "timeDay": 292,
     "timeWeek": 292,
     "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2021-10-19": 0
+      "2021-10-19": 3
     }
   }
 ]
