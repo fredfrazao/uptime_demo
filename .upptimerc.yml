@@ -21,7 +21,7 @@ sites:
 
 status-website:
   baseUrl: /uptime_demo
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cloudmobility.io/static/579c7ecdcddbb55866d72cb8f374c16a/cloudmobilityLogo.svg
   name: Cloudmobility
   introTitle: "**Statuspage**"
   introMessage: Cloudmobility StatusPage
