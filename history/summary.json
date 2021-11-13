@@ -94,7 +94,7 @@
     "url": "https://core.harbor.eu1.ext.systems/api/health",
     "icon": "https://favicons.githubusercontent.com/core.harbor.eu1.ext.systems",
     "slug": "image-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 821,
     "timeMonth": 767,
     "timeYear": 767,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-13": 0
+    }
   },
   {
     "name": "Portal",
