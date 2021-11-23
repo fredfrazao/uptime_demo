@@ -40,9 +40,9 @@
     "url": "http://apiserver.agile-dingo.cns.eu1.cloudmobility.io/healthz",
     "icon": "https://favicons.githubusercontent.com/apiserver.agile-dingo.cns.eu1.cloudmobility.io",
     "slug": "eu1z1-namespaces-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 409,
     "timeMonth": 468,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-23": 0
+    }
   },
   {
     "name": "CloudMobility Site",
@@ -98,7 +100,7 @@
     "slug": "image-registry",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "97.09%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
