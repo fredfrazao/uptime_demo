@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 723,
-    "timeWeek": 569,
-    "timeMonth": 573,
-    "timeYear": 571,
+    "time": 568,
+    "timeDay": 414,
+    "timeWeek": 542,
+    "timeMonth": 561,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 133,
-    "timeWeek": 109,
+    "timeDay": 45,
+    "timeWeek": 92,
     "timeMonth": 94,
     "timeYear": 89,
     "dailyMinutesDown": {}
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/apiserver.agile-dingo.cns.eu1.cloudmobility.io",
     "slug": "eu1z1-namespaces-cluster",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.86%",
-    "time": 442,
-    "timeDay": 501,
-    "timeWeek": 414,
-    "timeMonth": 436,
-    "timeYear": 442,
+    "uptimeYear": "99.87%",
+    "time": 440,
+    "timeDay": 329,
+    "timeWeek": 395,
+    "timeMonth": 421,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2021-11-23": 91
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 192,
-    "timeDay": 72,
-    "timeWeek": 177,
+    "time": 190,
+    "timeDay": 95,
+    "timeWeek": 154,
     "timeMonth": 184,
-    "timeYear": 192,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2021-11-16": 25
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 686,
-    "timeWeek": 556,
-    "timeMonth": 562,
-    "timeYear": 554,
+    "time": 551,
+    "timeDay": 412,
+    "timeWeek": 526,
+    "timeMonth": 549,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
-    "time": 747,
-    "timeDay": 857,
-    "timeWeek": 738,
-    "timeMonth": 765,
-    "timeYear": 747,
+    "time": 743,
+    "timeDay": 547,
+    "timeWeek": 708,
+    "timeMonth": 735,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2021-11-22": 42
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 509,
-    "timeWeek": 409,
-    "timeMonth": 399,
-    "timeYear": 398,
+    "time": 396,
+    "timeDay": 301,
+    "timeWeek": 383,
+    "timeMonth": 391,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   }
 ]
