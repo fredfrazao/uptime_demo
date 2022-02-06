@@ -10,11 +10,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 564,
-    "timeDay": 396,
-    "timeWeek": 525,
+    "time": 562,
+    "timeDay": 398,
+    "timeWeek": 523,
     "timeMonth": 530,
-    "timeYear": 564,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2022-02-01": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 48,
+    "time": 91,
+    "timeDay": 49,
     "timeWeek": 113,
     "timeMonth": 91,
-    "timeYear": 92,
+    "timeYear": 91,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 432,
-    "timeDay": 336,
-    "timeWeek": 411,
+    "time": 431,
+    "timeDay": 341,
+    "timeWeek": 416,
     "timeMonth": 408,
-    "timeYear": 432,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2021-11-23": 91
     }
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/cloudmobility.io",
     "slug": "cloud-mobility-site",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.21%",
-    "uptimeYear": "99.20%",
-    "time": 329,
-    "timeDay": 755,
-    "timeWeek": 1222,
-    "timeMonth": 737,
-    "timeYear": 329,
+    "uptimeYear": "99.21%",
+    "time": 333,
+    "timeDay": 874,
+    "timeWeek": 1234,
+    "timeMonth": 763,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2022-01-19": 804,
       "2022-01-18": 418,
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 436,
-    "timeWeek": 546,
+    "time": 551,
+    "timeDay": 435,
+    "timeWeek": 549,
     "timeMonth": 532,
-    "timeYear": 552,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 731,
-    "timeDay": 525,
-    "timeWeek": 752,
+    "time": 729,
+    "timeDay": 519,
+    "timeWeek": 739,
     "timeMonth": 691,
-    "timeYear": 731,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2021-11-22": 42
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 302,
-    "timeWeek": 405,
-    "timeMonth": 418,
-    "timeYear": 411,
+    "time": 410,
+    "timeDay": 304,
+    "timeWeek": 406,
+    "timeMonth": 412,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   }
 ]
