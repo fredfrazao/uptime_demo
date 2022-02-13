@@ -1,7 +1,7 @@
 url: https://core.harbor.eu1.ext.systems/api/health
 status: up
 code: 200
-responseTime: 1015
-lastUpdated: 2022-02-12T23:16:08.485Z
+responseTime: 525
+lastUpdated: 2022-02-13T23:16:23.262Z
 startTime: Tue Oct 19 2021 08:51:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
