@@ -9,12 +9,8 @@ sites:
     url: https://cloudmobility.github.io/charts/index.yaml
   - name: Eu1z1 Namespaces Cluster
     url: http://apiserver.agile-dingo.cns.eu1.cloudmobility.io/healthz
-  - name: CloudMobility Site
-    url: https://cloudmobility.io/
   - name: Eu1z1 Namespaces Ingress
     url: https://health.agile-dingo.cns.eu1.cloudmobility.io/
-  - name: Image Registry
-    url: https://core.harbor.eu1.ext.systems/api/health
   - name: Portal
     url: https://portal.cloudmobility.io/
 
