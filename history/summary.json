@@ -24,18 +24,20 @@
     "url": "https://cloudmobility.github.io/charts/index.yaml",
     "icon": "https://favicons.githubusercontent.com/cloudmobility.github.io",
     "slug": "cloudmobility-charts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 70,
-    "timeWeek": 97,
-    "timeMonth": 94,
+    "timeDay": 58,
+    "timeWeek": 91,
+    "timeMonth": 92,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   },
   {
     "name": "Eu1z1 Namespaces Cluster",
