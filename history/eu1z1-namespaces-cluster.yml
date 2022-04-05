@@ -1,7 +1,7 @@
 url: http://apiserver.agile-dingo.cns.eu1.cloudmobility.io/healthz
 status: up
 code: 200
-responseTime: 521
-lastUpdated: 2022-04-04T23:19:22.987Z
+responseTime: 518
+lastUpdated: 2022-04-05T23:18:52.468Z
 startTime: Tue Oct 19 2021 08:51:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
