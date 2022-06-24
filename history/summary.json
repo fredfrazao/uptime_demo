@@ -4,10 +4,10 @@
     "url": "https://keycloak.eu1.cloudmobility.io/auth/realms/eu1",
     "icon": "https://favicons.githubusercontent.com/keycloak.eu1.cloudmobility.io",
     "slug": "authentication-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 575,
@@ -16,6 +16,7 @@
     "timeMonth": 537,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2022-06-24": 1,
       "2022-02-01": 27
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/cloudmobility.github.io",
     "slug": "cloudmobility-charts",
     "status": "down",
-    "uptime": "65.04%",
+    "uptime": "64.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.04%",
+    "uptimeYear": "64.92%",
     "time": 88,
     "timeDay": 109,
     "timeWeek": 66,
     "timeMonth": 71,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2022-06-24": 28,
+      "2022-06-24": 677,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
       "2022-06-21": 1440,
@@ -131,10 +132,10 @@
     "url": "http://apiserver.agile-dingo.cns.eu1.cloudmobility.io/healthz",
     "icon": "https://favicons.githubusercontent.com/apiserver.agile-dingo.cns.eu1.cloudmobility.io",
     "slug": "eu1z1-namespaces-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 441,
@@ -143,6 +144,7 @@
     "timeMonth": 424,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2022-06-24": 1,
       "2021-11-23": 91
     }
   },
@@ -151,9 +153,9 @@
     "url": "https://health.agile-dingo.cns.eu1.cloudmobility.io/",
     "icon": "https://favicons.githubusercontent.com/health.agile-dingo.cns.eu1.cloudmobility.io",
     "slug": "eu1z1-namespaces-ingress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,7 +164,9 @@
     "timeWeek": 492,
     "timeMonth": 549,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-24": 0
+    }
   },
   {
     "name": "Portal",
